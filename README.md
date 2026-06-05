@@ -54,3 +54,4 @@ npm run dev
 ## Author
 
 Developed as a React + Redux e-Commerce Plant Shopping Project.
+
